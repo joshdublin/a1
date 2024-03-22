@@ -61,7 +61,7 @@ import { RouterOutlet } from '@angular/router';
 <p></p>
 <p>References</p>
 <p>[1]
-    O. James, “The Impact of Smartphones on Society: Positive and Negative Effects,” Coda | Everything evolves, the evolution of documents., Apr. 24, 2023. https://coda.io/@oliver-james/the-impact-of-smartphones-on-society-positive-and-negative-effec
+    O. James, “The Impact of Smartphones on Society: Positive and Negative Effects,” Coda | Everything evolves, the evolution of documents., Apr. 24, 2023. https://coda.io/oliver-james/the-impact-of-smartphones-on-society-positive-and-negative-effec
     </p>
 <p>[2]
     “Smartphone Health Dangers,” MedicineNet, Nov. 17, 2021. https://www.medicinenet.com/cell_phone_health_dangers/article.htm
